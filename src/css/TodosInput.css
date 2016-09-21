@@ -1,7 +1,0 @@
-.TodosInput .instructions {
-    visibility: hidden;
-}
-
-.TodosInputPending .instructions {
-    visibility: visible;
-}
