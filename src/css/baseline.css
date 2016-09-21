@@ -8,7 +8,7 @@ body {
 
 input.content {
   padding: 5px;
-  width: 24%;
+  width: 40%;
   /*margin-bottom: 15px;
   margin-right: 15px;*/
   display: block;
@@ -32,4 +32,10 @@ input.deleteDone {
   margin: 0 auto;
   background-color: #fff;
   height: 100vh;
+}
+
+@media screen and (max-width: 768px) {
+  input.content {
+    width: 95%;
+  }
 }
