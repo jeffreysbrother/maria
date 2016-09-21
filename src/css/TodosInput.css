@@ -5,3 +5,7 @@
 .TodosInputPending .instructions {
     visibility: visible;
 }
+
+.TodosInput h1 {
+  text-align: center;
+}

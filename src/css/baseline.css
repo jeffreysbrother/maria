@@ -1,5 +1,12 @@
 * {
   font-size: 16px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: normal;
 }
 
 body {
@@ -30,6 +37,11 @@ input.deleteDone {
   margin: 0 auto;
   background-color: #fff;
   height: 100vh;
+}
+
+.TodosList {
+  width: 40%;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {
