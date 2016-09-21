@@ -15,9 +15,15 @@ input.content {
   margin: 0 auto;
 }
 
+ul.TodosToolbar {
+  display: block;
+  margin: 0 auto;
+}
+
 input.deleteDone {
   padding: 15px 20px;
-  
+  /*margin: 0 auto;
+    display: block;*/
 }
 
 .TodosApp {
