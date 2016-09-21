@@ -1,0 +1,13 @@
+* {
+  font-size: 16px;
+}
+
+input.content {
+  padding: 5px;
+  width: 24%;
+  margin-bottom: 15px;
+}
+
+input.deleteDone {
+  padding: 15px 20px;
+}
