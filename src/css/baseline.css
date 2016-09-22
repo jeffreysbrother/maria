@@ -34,11 +34,6 @@ input.deleteDone {
   height: 100vh;
 }
 
-.TodosList {
-  width: 40%;
-  margin: 0 auto;
-}
-
 @media screen and (max-width: 768px) {
   input.content,
   .TodosList,
