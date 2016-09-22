@@ -20,11 +20,6 @@ input.content {
   margin: 0 auto 15px auto;
 }
 
-ul.TodosToolbar {
-  display: block;
-  margin: 0 auto;
-}
-
 input.deleteDone {
   /*padding: 15px 20px;*/
   /*margin: 0 auto;
@@ -46,7 +41,8 @@ input.deleteDone {
 
 @media screen and (max-width: 768px) {
   input.content,
-  .TodosList {
+  .TodosList,
+  .TodosToolbar {
     width: 95%;
   }
 }
